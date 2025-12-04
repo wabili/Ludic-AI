@@ -134,10 +134,13 @@ Visualization and analysis
 This is a well-rounded academic and engineering project.
 
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-04 at 20 32 29" src="https://github.com/user-attachments/assets/b31a439a-00cf-4c74-a878-b4f45f3dc565" />
 
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-04 at 20 33 13" src="https://github.com/user-attachments/assets/2e8e10fd-3eee-4f3f-9bd2-4284d364b965" />
+
+<img width="301.5" height="655.5" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-04 at 20 32 29" src="https://github.com/user-attachments/assets/b31a439a-00cf-4c74-a878-b4f45f3dc565" />
 
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-04 at 20 33 38" src="https://github.com/user-attachments/assets/f9281009-2eea-4cca-abc7-7a7d5607393c" />
+<img width="301.5" height="655.5" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-04 at 20 33 13" src="https://github.com/user-attachments/assets/2e8e10fd-3eee-4f3f-9bd2-4284d364b965" />
+
+
+<img width="301.5" height="655.5" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-04 at 20 33 38" src="https://github.com/user-attachments/assets/f9281009-2eea-4cca-abc7-7a7d5607393c" />
